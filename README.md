@@ -1,6 +1,3 @@
-# Invitation
-A webpage/digital invitation for christmas eve.
-
 
 <!DOCTYPE html>
 <html>
